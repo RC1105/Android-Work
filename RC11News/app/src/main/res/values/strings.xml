@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RC11 News</string>
+    <string name="presents">RC11 Presents</string>
+    <string name="news">RC XI NEWS</string>
+    <string name="ttnaag">\n\nTop 10 News across all Genres</string>
+    <string name="quickRead">Quick Read</string>
+    <string name="search">Search</string>
+    <string name="cat">Categories</string>
+    <string name="categories">CATEGORIES</string>
+</resources>

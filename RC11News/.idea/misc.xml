@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable-v24/icon.xml" value="0.14479166666666668" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/action.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/backkie.xml" value="0.14270833333333333" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/ic_back.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/ic_home.xml" value="0.14479166666666668" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/ic_share.xml" value="0.14270833333333333" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/icon.xml" value="0.14270833333333333" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/magic.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/drawable/selec.xml" value="0.2703125" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/layout/activity_cat.xml" value="0.2" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/layout/item_news.xml" value="0.264" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/layout/plz_act.xml" value="0.536" />
+        <entry key="..\:/AD work/RC11News/app/src/main/res/layout/plz_activity.xml" value="0.12864583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
