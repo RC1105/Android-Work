@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="380dp"
+    android:gravity="center"
+    android:background="@drawable/squarebox"
+    android:layout_height="280dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONGRATULATIONS!!"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="32dp"/>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:background="@color/black"/>
+
+
+    <TextView
+        android:id="@+id/winner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="X won"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="32dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Well Played!!"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:textColor="#faaf00"
+        android:textSize="22dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_close"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="CLOSE"
+            android:textSize="15dp"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:background="@drawable/res"
+            android:layout_margin="20dp"/>
+        <TextView
+            android:id="@+id/tv_playAgain"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:padding="5dp"
+            android:text="PLAY AGAIN"
+            android:textColor="@color/white"
+            android:background="@drawable/back"
+            android:layout_margin="20dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
