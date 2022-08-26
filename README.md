@@ -1,2 +1,2 @@
 # Android-Work
-Repo for major Android App development projects.
+Repo for major Android App development work.
