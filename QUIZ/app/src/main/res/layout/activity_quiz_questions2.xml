@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".QuizQuestionsActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="16dp"
+        android:background="#FFFFFF"
+        android:gravity="center">
+        <FrameLayout
+            android:id="@+id/flQuesView2"
+
+            android:layout_marginLeft="150dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/button_border"
+            android:gravity="center">
+            <ProgressBar
+                android:id="@+id/progressBar4"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:background="@drawable/circular_progress_gray"
+                android:indeterminate="false"
+                android:max="10"
+                android:progress="100"
+                android:progressDrawable="@drawable/circular_progress_bar"
+                android:rotation="-90" />
+
+            <TextView
+                android:id="@+id/tvTimer2"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:gravity="center"
+                android:text="15"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+        </FrameLayout>
+        <TextView
+            android:id="@+id/tv_question2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Which is considered to be the biggest Airline Company in India?"
+            android:textSize="25dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+        <ImageView
+            android:id="@+id/iv_image2"
+            android:layout_width="wrap_content"
+            android:layout_height="140dp"
+            android:layout_marginTop="17dp"
+            android:src="@drawable/airplane"
+            />
+        <TextView
+            android:id="@+id/tv_tag2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Category: Airlines"
+            android:textSize="15dp"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:textColor="#A9A9A9"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:id="@+id/ll_progress_details"
+            android:orientation="horizontal"
+            android:paddingLeft="60dp"
+            android:paddingRight="15dp">
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="281dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_weight="1"
+                android:indeterminate="false"
+                android:max="5"
+                android:minHeight="50dp"
+                android:orientation="horizontal"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/tv_progress2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:gravity="center"
+                android:padding="15dp"
+                tools:text="0/5"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tv_option_one2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/default_option_back"
+            android:text="Vistara"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="40dp"
+            android:padding="5dp"/>
+        <TextView
+            android:id="@+id/tv_option_two2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/default_option_back"
+            android:text="Air India"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="15dp"
+            android:padding="5dp"/>
+        <TextView
+            android:id="@+id/tv_option_three2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/default_option_back"
+            android:text="Indigo"
+            android:gravity="center"
+            android:layout_marginTop="15dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:padding="5dp"/>
+        <TextView
+            android:id="@+id/tv_option_four2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/default_option_back"
+            android:text="Spice Jet"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:padding="5dp"/>
+
+        <Button
+            android:id="@+id/btn_submit2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:text="Submit"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:id="@+id/tv_remarks2"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="I'll display"
+            android:textSize="18dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity">
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#RC11 Presents"
+        android:layout_marginTop="195dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp"
+        ></TextView>
+    <TextView
+        android:id="@+id/tv_app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz App"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="27dp"
+        ></TextView>
+
+    <LinearLayout
+        android:layout_width="328dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="35dp"
+        android:paddingBottom="35dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/sun"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome"
+            android:textColor="@color/black"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter Your Name"
+
+            android:textColor="@color/black"
+            android:textSize="12dp"></TextView>
+
+        <com.google.android.material.textfield.TextInputLayout
+
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="257dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/et_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Name"
+                android:textAlignment="center"
+                android:textColor="#363A43" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <TextView
+            android:id="@+id/btn_start"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:width="0dp"
+            android:background="@drawable/start"
+            android:gravity="center"
+            android:text="START"
+            android:layout_marginTop="12dp"
+            android:textColor="#FFFFFF" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="328dp"
+
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/iv_leader"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/squarebox3"
+            android:padding="7dp"
+            android:layout_marginRight="40dp"
+            android:src="@drawable/ic_leader"/>
+        <ImageView
+            android:id="@+id/iv_erase"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/squarebox3"
+            android:padding="7dp"
+            android:layout_marginRight="40dp"
+            android:src="@drawable/ic_clear"/>
+
+
+        <ImageView
+            android:id="@+id/iv_exit"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/squarebox3"
+            android:padding="7dp"
+            android:src="@drawable/ic_exit"/>
+
+    </LinearLayout>
+
+</LinearLayout>
