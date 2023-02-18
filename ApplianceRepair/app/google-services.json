@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491195399575",
+    "project_id": "appliance-repair-23c0a",
+    "storage_bucket": "appliance-repair-23c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491195399575:android:1dbe819796aad7741198d2",
+        "android_client_info": {
+          "package_name": "com.example.appliancerepair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491195399575-v2uhfqj7ncve27r6gimo1cgulpb1psai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJO_h3OXGq8AkSR5iDeVwVea_lMyZmV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491195399575-v2uhfqj7ncve27r6gimo1cgulpb1psai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

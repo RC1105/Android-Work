@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/ic_oki"
+    android:paddingLeft="22dp"
+    android:paddingRight="22dp"
+    android:orientation="vertical"
+    tools:context=".welcomeActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="32dp"
+        android:textStyle="bold"
+        android:text="APPLIANCE REPAIR"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:text="\n\nWe provide best appliance services all over the country. \nJust select appliance for which you need to repair or service... "/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="22dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="\n\nCHOOSE AN APPLIANCE "/>
+
+    <LinearLayout
+        android:id="@+id/MW"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:orientation="horizontal"
+        android:padding="11dp"
+        android:background="@drawable/backk">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/micro"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MICROWAVE"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="18dp"
+            android:textColor="#000000"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/AC"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:orientation="horizontal"
+        android:padding="11dp"
+        android:background="@drawable/backk">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ac"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AIR CONDITIONER"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="18dp"
+            android:textColor="#000000"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/RF"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:orientation="horizontal"
+        android:padding="11dp"
+        android:paddingRight="11dp"
+        android:background="@drawable/backk">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/fridge"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REFRIGERATOR"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="18dp"
+            android:textColor="#000000"/>
+    </LinearLayout>
+</LinearLayout>

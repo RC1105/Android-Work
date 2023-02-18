@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ApplianceRepair</string>
+    <string name="sign_up_description_text">Enter your details to register with us.</string>
+    <string name="sign_in_description_text">Enter your email id and password, to sign in.</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="company">
+        <item>Bosch</item>
+        <item>Daikin</item>
+        <item>Electrolux</item>
+        <item>Godrej</item>
+        <item>Haier</item>
+        <item>Hitachi</item>
+        <item>Hyundai</item>
+        <item>Kelvinator</item>
+        <item>Lloyd</item>
+        <item>Panasonic</item>
+        <item>Samsung</item>
+        <item>Videocon</item>
+        <item>Voltas</item>
+        <item>Whirpool</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="slots">
+        <item>10:00 - 12:00</item>
+        <item>12:00 - 14:00</item>
+        <item>14:00 - 16:00</item>
+        <item>16:00 - 18:00</item>
+        <item>18:00 - 20:00</item>
+        <item>20:00 - 22:00</item>
+
+    </string-array>
+</resources>

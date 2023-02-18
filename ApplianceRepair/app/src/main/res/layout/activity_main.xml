@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/jk"
+    android:layout_gravity="center_vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_presents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="#RC11 Presents"
+        android:gravity="center"
+        android:textColor="#0000ff"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_AR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="APPLIANCE REPAIR"
+        android:gravity="center"
+        android:textSize="32dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        ></TextView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="#0000ff"></View>
+    <ImageView
+        android:id="@+id/iv_gallery"
+        android:layout_marginTop="38dp"
+        android:layout_width="380dp"
+        android:layout_height="250dp"
+        android:scaleType="fitXY"
+        android:background="@drawable/frame"
+        android:paddingTop="2dp"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:paddingBottom="2dp"
+        android:src="@drawable/ic_launcher_background"></ImageView>
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=". . . . . . ."
+        android:gravity="center"
+        android:textSize="32dp"
+        android:textColor="#0000ff"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        ></TextView>
+    <TextView
+        android:id="@+id/start"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Let's Get Started\n"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        ></TextView>
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOG IN"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:padding="4dp"
+        android:gravity="center"
+        android:layout_marginTop="18dp"
+        android:layout_marginLeft="78dp"
+        android:layout_marginRight="78dp"
+        android:background="@drawable/login"></TextView>
+
+    <TextView
+        android:id="@+id/signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="SIGN UP"
+        android:textSize="18dp"
+        android:padding="4dp"
+        android:gravity="center"
+        android:layout_marginTop="18dp"
+        android:layout_marginLeft="78dp"
+        android:layout_marginRight="78dp"
+        android:background="@drawable/shape_button_rounded"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:layout_marginBottom="11dp"
+        android:text="OR"
+        android:textSize="21dp"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/tv_viaPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login via OTP"
+        android:background="@drawable/login"
+        android:gravity="center"
+        android:padding="7dp"
+        android:textSize="18dp"
+        android:textColor="#000000"></TextView>
+</LinearLayout>
