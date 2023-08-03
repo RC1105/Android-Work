@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_storm.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\storm.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sunset.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\sunset.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_snowflake.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\snowflake.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_rain.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\rain.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_temperature.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_evening.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\evening.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sunny.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\sunny.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_cloud.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\cloud.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_close.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\close.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_refresh.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_humidity.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\humidity.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_morning.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\morning.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sunrise.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\sunrise.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_custom_progress.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\layout\\dialog_custom_progress.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_location.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\AD work\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_wind.xml.flat",
+        "source": "F:\\AD work\\WeatherApp\\app\\src\\main\\res\\drawable\\wind.xml"
+    }
+]
